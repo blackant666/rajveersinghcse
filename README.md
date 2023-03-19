@@ -60,9 +60,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersinghcse&layout=compact&theme=github_dark" alt="Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajveersinghcse&show_icons=true&locale=en&theme=github_dark" alt="Stats" />
 </div>
-<h3>➤ GitHub Contribution :</h3>
-![Baner](https://github.com/rajveersinghcse/rajveersinghcse/blob/output/github-contribution-grid-snake.gif)
 
+<h3>➤ GitHub Contribution :</h3>
+<div>
+![Baner](https://github.com/rajveersinghcse/rajveersinghcse/blob/output/github-contribution-grid-snake.gif)
+</div>
 
 [projects]: https://github.com/rajveersinghcse?tab=repositories
 [linkedin]: https://www.linkedin.com/in/rajveersinghcse/

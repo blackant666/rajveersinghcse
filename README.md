@@ -63,7 +63,7 @@
 
 <h3>➤ GitHub Contribution :</h3>
 
-![Baner](https://github.com/rajveersinghcse/rajveersinghcse/blob/output/github-contribution-grid-snake.gif)
+![Fotter](https://github.com/rajveersinghcse/rajveersinghcse/blob/output/github-contribution-grid-snake.svg)
 
 
 [projects]: https://github.com/rajveersinghcse?tab=repositories

@@ -61,5 +61,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajveersinghcse&show_icons=true&locale=en&theme=github_dark" alt="Stats" />
 </div>
 
+![Baner](https://github.com/rajveersinghcse/rajveersinghcse/blob/output/github-contribution-grid-snake.svg)
+
+
 [projects]: https://github.com/rajveersinghcse?tab=repositories
 [linkedin]: https://www.linkedin.com/in/rajveersinghcse/

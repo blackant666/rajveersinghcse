@@ -62,9 +62,9 @@
 </div>
 
 <h3>➤ GitHub Contribution :</h3>
-<div>
+
 ![Baner](https://github.com/rajveersinghcse/rajveersinghcse/blob/output/github-contribution-grid-snake.gif)
-</div>
+
 
 [projects]: https://github.com/rajveersinghcse?tab=repositories
 [linkedin]: https://www.linkedin.com/in/rajveersinghcse/
